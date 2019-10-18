@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gexiwaigi.mmcc.io/sitemap.xml
